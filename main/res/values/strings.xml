@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Semester Calculator</string>
+
+    <string-array name="Semesters">
+        <item>One</item>
+        <item>Two</item>
+    </string-array>
+
+</resources>
